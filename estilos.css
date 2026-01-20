@@ -11,6 +11,7 @@ header {
     color: white;
     padding: 20px;
     text-align: center;
+    border: solid gold 1px;
 }
 
 header h1 {
@@ -20,8 +21,9 @@ header h1 {
 section {
     padding: 20px;
     margin: 10px auto;
-    width: 800px;
+    max-width: 800px;
     background-color: white;
+
 }
 
 footer {
@@ -29,4 +31,4 @@ footer {
     padding: 10px;
     background-color: black;
     color: white;
-}
+border: solid gold 1px;}
