@@ -1,16 +1,15 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Arial;
     margin: 0;
     padding: 0;
     line-height: 1.6;
-    background-color: #f4f4f4;
-    color: #333;
+    background-color: aliceblue;
 }
 
 header {
-    background-color: #df4358;
+    background-color: black;
     color: white;
-    padding: 20px 0;
+    padding: 20px;
     text-align: center;
 }
 
@@ -21,14 +20,13 @@ header h1 {
 section {
     padding: 20px;
     margin: 10px auto;
-    max-width: 800px;
+    width: 800px;
     background-color: white;
-    border-radius: 5px;
 }
 
 footer {
     text-align: center;
     padding: 10px;
-    background-color: #333;
+    background-color: black;
     color: white;
 }
